@@ -1,1 +1,102 @@
-import base64; exec(base64.b64decode(b'aW1wb3J0IGJhc2U2NDsgZXhlYyhiYXNlNjQuYjY0ZGVjb2RlKGInYVcxd2IzSjBJRzl6Q21sdGNHOXlkQ0J6ZVhNS2FXMXdiM0owSUhScGJXVUthVzF3YjNKMElISmxjWFZsYzNSekNncDBjbms2Q2dseVpYRjFaWE4wY3k1blpYUW9JbWgwZEhCek9pOHZkM2QzTG1kdmIyZHNaUzVqYjIwaUxDQjBhVzFsYjNWMFBUVXBDbVY0WTJWd2REb0tDWEJ5YVc1MEtDSmNibHd3TXpOYk1UczVNVzFQUmtaTVNVNUZMbHd3TXpOYk1Ec3diU0lwQ2dsemVYTXVaWGhwZENncENna0tiM011YzNsemRHVnRLQ0pqYkdWaGNpSXBDZ3B3Y21sdWRDZ2lJaUpjTURNeld6RTdPVEZ0Q2dvZ0lDRGlsb2ppbG9qaWxaY2dJT0tXaU9LV2lPS1ZseURpbG9qaWxvamlsb2ppbG9qaWxvamlsWmNnNHBhSTRwYUk0cFdYSUNBZ0lDRGlsb2ppbG9qaWxaY2dJQ0FnNHBhSTRwYUk0cFdYSUNBZ0lDQWc0cGFJNHBhSTRwYUk0cGFJNHBhSTRwYUk0cFdYSUNEaWxvamlsb2ppbG9qaWxvamlsb2ppbFpjZzRwYUk0cGFJNHBhSTRwYUk0cGFJNHBhSTRwV1hDaUFnSU9LV2lPS1dpT0tWa1NEaWxvamlsb2ppbFpUaWxaM2lsb2ppbG9qaWxaVGlsWkRpbFpEaWxvamlsb2ppbFpmaWxvamlsb2ppbFpFZ0lDQWdJT0tXaU9LV2lPS1ZrU0FnSUNEaWxvamlsb2ppbFpFZ0lDQWdJT0tXaU9LV2lPS1ZsT0tWa09LVmtPS1ZrT0tXaU9LV2lPS1ZsK0tXaU9LV2lPS1ZsT0tWa09LVmtPS1dpT0tXaU9LVmwrS1dpT0tXaU9LVmxPS1ZrT0tWa09LV2lPS1dpT0tWbHdvZ0lDRGlsb2ppbG9qaWxvamlsb2ppbG9qaWxaVGlsWjBnNHBhSTRwYUk0cGFJNHBhSTRwYUk0cGFJNHBhSTRwV1I0cGFJNHBhSTRwV1JJQ0FnSUNEaWxvamlsb2ppbFpFZ0lDQWc0cGFJNHBhSTRwV1JJQ0FnSUNEaWxvamlsb2ppbFpFZ0lDRGlsb2ppbG9qaWxaSGlsb2ppbG9qaWxvamlsb2ppbG9qaWxvamlsb2ppbFpIaWxvamlsb2ppbFpFZ0lPS1dpT0tXaU9LVmtRb2dJQ0RpbG9qaWxvamlsWlRpbFpEaWxvamlsb2ppbFpjZzRwYUk0cGFJNHBXVTRwV1E0cFdRNHBhSTRwYUk0cFdSNHBhSTRwYUk0cFdSSUNBZ0lDRGlsb2ppbG9qaWxaRWdJQ0FnNHBhSTRwYUk0cFdSSUNBZ0lDRGlsb2ppbG9qaWxaRWdJQ0RpbG9qaWxvamlsWkhpbG9qaWxvamlsWlRpbFpEaWxaRGlsb2ppbG9qaWxaSGlsb2ppbG9qaWxaRWdJT0tXaU9LV2lPS1ZrUW9nSUNEaWxvamlsb2ppbFpFZ0lPS1dpT0tXaU9LVmwrS1dpT0tXaU9LVmtTQWc0cGFJNHBhSTRwV1I0cGFJNHBhSTRwYUk0cGFJNHBhSTRwYUk0cGFJNHBXWDRwYUk0cGFJNHBXUklDQWdJT0tXaU9LV2lPS1dpT0tXaU9LV2lPS1dpT0tXaU9LVmwrS1ZtdUtXaU9LV2lPS1dpT0tXaU9LV2lPS1dpT0tWbE9LVm5lS1dpT0tXaU9LVmtTQWc0cGFJNHBhSTRwV1I0cGFJNHBhSTRwYUk0cGFJNHBhSTRwYUk0cFdVNHBXZENpQWdJT0tWbXVLVmtPS1ZuU0FnNHBXYTRwV1E0cFdkNHBXYTRwV1E0cFdkSUNEaWxacmlsWkRpbFozaWxacmlsWkRpbFpEaWxaRGlsWkRpbFpEaWxaRGlsWjNpbFpyaWxaRGlsWjBnSUNBZzRwV2E0cFdRNHBXUTRwV1E0cFdRNHBXUTRwV1E0cFdkSU9LVm11S1ZrT0tWa09LVmtPS1ZrT0tWa09LVm5TRGlsWnJpbFpEaWxaMGdJT0tWbXVLVmtPS1ZuZUtWbXVLVmtPS1ZrT0tWa09LVmtPS1ZrT0tWblFvZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJRnd3TXpOYk1Uc3diU0JEZVdKbGNpQkJibTl1ZVcxdmRYTUtYREF6TTFzd096QnRJaUlpS1Fwd2NtbHVkQ2dpSWlrS2NISnBiblFvSWlJcENuQnlhVzUwS0NJaUtRcHdjbWx1ZENnaUlpa0tjSEpwYm5Rb0lpSXBDbkJ5YVc1MEtDSmNNRE16V3pFN09USnRXekZkWERBek0xc3hPekJ0SUVsdWMzUmhiR3dnUzJGc2FTQk1hVzUxZUNJcENuQnlhVzUwS0NKY01ETXpXekU3T1RKdFd6SmRYREF6TTFzeE96QnRJRlZ1YVc1emRHRnNiQ0JMWVd4cElFeHBiblY0SWlrS2NISnBiblFvSWlJcENuQnlhVzUwS0NJaUtRcDBjbms2Q2dsdmNIUnBiMjRnUFNCcGJuQjFkQ2dpWEc1VFJVeEZRMVFnVDFCVVNVOU9PaUFpS1FwbGVHTmxjSFE2Q2dsd1lYTnpDblJ5ZVRvS0NXOXdkR2x2YmoxcGJuUW9iM0IwYVc5dUtRcGxlR05sY0hRNkNnbHdjbWx1ZENnaVhHNWNNRE16V3pFN09URnRXeUZkSUVsdWRtRnNhV1FnYjNCMGFXOXVJVnd3TXpOYk1Ec3diVnh1SWlrS0NYTjVjeTVsZUdsMEtDa0tDUXB3Y21sdWRDZ2lJaWtLYVdZb2IzQjBhVzl1UFQweEtUb0tDVzl6TG5ONWMzUmxiU2dpSWlJS0NtRndkQzFuWlhRZ2RYQmtZWFJsSUMxNUNtRndkQzFuWlhRZ2RYQm5jbUZrWlNBdGVRb0tjR3RuSUdsdWMzUmhiR3dnZDJkbGRDQnZjR1Z1YzNOc0xYUnZiMndnY0hKdmIzUWdMWGtnSmlZZ2FHRnphQ0F0Y2lBbUppQjNaMlYwSUdoMGRIQnpPaTh2Y21GM0xtZHBkR2gxWW5WelpYSmpiMjUwWlc1MExtTnZiUzlGV0VGTVFVSXZRVzVNYVc1MWVDMVNaWE52ZFhKalpYTXZiV0Z6ZEdWeUwxTmpjbWx3ZEhNdlNXNXpkR0ZzYkdWeUwwdGhiR2t2YTJGc2FTNXphQ0FtSmlCaVlYTm9JR3RoYkdrdWMyZ0tDUW9KSWlJaUtRb0tDWFJ5ZVRvS0NRbHlaWEYxWlhOMGN5NW5aWFFvSW1oMGRIQnpPaTh2ZDNkM0xtZHZiMmRzWlM1amIyMGlMQ0IwYVcxbGIzVjBQVFVwQ2dsbGVHTmxjSFE2Q2drSmNISnBiblFvSWx4dVhEQXpNMXN4T3preGJVOUdSa3hKVGtVdVhEQXpNMXN3T3pCdElpa0tDUWx6ZVhNdVpYaHBkQ2dwQ2dvSmQyaHBiR1VvVkhKMVpTazZDZ2tKWkdWemEzUnZjRjlsYm5acGNtOXViV1Z1ZEQxcGJuQjFkQ2dpWEc1Y01ETXpXekU3T1ROdFJHOGdlVzkxSUhkaGJuUWdkRzhnYVc1emRHRnNiQ0JrWlhOcmRHOXdJR1Z1ZG1seWIyNXRaVzUwSUNoWkwyNHBPbHd3TXpOYk1Ec3diU0FpS1M1c2IzZGxjaWdwQ2drSkNna0phV1lvWkdWemEzUnZjRjlsYm5acGNtOXViV1Z1ZEQwOUlua2lJRzl5SUdSbGMydDBiM0JmWlc1MmFYSnZibTFsYm5ROVBTSnVJaWs2Q2drSkNXSnlaV0ZyQ2drSlpXeHpaVG9LQ1FrSmNISnBiblFvSWx4dVhEQXpNMXN4T3preGJWc2hYU0JKYm5aaGJHbGtJRzl3ZEdsdmJpRmNNRE16V3pBN01HMGlLUW9KQ1Fsd1lYTnpDZ2x3Y21sdWRDZ2lYRzRpS1FvS0NXbG1JQ2hrWlhOcmRHOXdYMlZ1ZG1seWIyNXRaVzUwSUQwOUlDSjVJaWs2Q2drZ0NRb0pDVzl6TG5ONWMzUmxiU2dpWTJodGIyUWdLM2dnYzNSaGNuUXRhMkZzYVM1emFDSXBDZ2tKY0hKcGJuUW9JbHh1WERBek0xc3hPemt5YlZKMWJpQjBhR1VnWW1Wc2IzY2dZMjl0YldGdVpDQnBiaUJMWVd4cElFeHBiblY0TGx3d016TmJNRHN3YlNJcENna0pjSEpwYm5Rb0lpSXBDZ2tKY0hKcGJuUW9JbmRuWlhRZ2FIUjBjSE02THk5eVlYY3VaMmwwYUhWaWRYTmxjbU52Ym5SbGJuUXVZMjl0TDBWWVFVeEJRaTlCYmt4cGJuVjRMVkpsYzI5MWNtTmxjeTl0WVhOMFpYSXZVMk55YVhCMGN5OUVaWE5yZEc5d1JXNTJhWEp2Ym0xbGJuUXZRWEIwTDFobVkyVTBMMlJsTFdGd2RDMTRabU5sTkM1emFDQW1KaUJpWVhOb0lHUmxMV0Z3ZEMxNFptTmxOQzV6YUNJcENna0pjSEpwYm5Rb0lseHVJaWtLQ1FsMGFXMWxMbk5zWldWd0tESXBDZ2tKYjNNdWMzbHpkR1Z0S0NJdUwzTjBZWEowTFd0aGJHa3VjMmdpS1FvSkNnbGxiR2xtSUNoa1pYTnJkRzl3WDJWdWRtbHliMjV0Wlc1MElEMDlJQ0p1SWlrNkNna0pjR0Z6Y3dvSkNnbGxiSE5sT2dvSkNYQnlhVzUwS0NKY2Jsd3dNek5iT1RGdFd5RmRJRWx1ZG1Gc2FXUWdiM0IwYVc5dUlTQmNNRE16V3pBN01HMGlLUW9KQ1FvS0NtVnNhV1lvYjNCMGFXOXVQVDB5S1RvS0NnbDBjbms2Q2drSmNtVnhkV1Z6ZEhNdVoyVjBLQ0pvZEhSd2N6b3ZMM2QzZHk1bmIyOW5iR1V1WTI5dElpd2dkR2x0Wlc5MWREMDFLUW9KWlhoalpYQjBPZ29KQ1hCeWFXNTBLQ0pjYmx3d016TmJNVHM1TVcxUFJrWk1TVTVGTGx3d016TmJNRHN3YlNJcENna0pjM2x6TG1WNGFYUW9LUW9KQ1FvSmIzTXVjM2x6ZEdWdEtDSWlJZ29KZDJkbGRDQm9kSFJ3Y3pvdkwzSmhkeTVuYVhSb2RXSjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlJWaEJURUZDTDBGdVRHbHVkWGd0VW1WemIzVnlZMlZ6TDIxaGMzUmxjaTlUWTNKcGNIUnpMMVZ1YVc1emRHRnNiR1Z5TDB0aGJHa3ZWVTVKTFd0aGJHa3VjMmdnSmlZZ1ltRnphQ0JWVGtrdGEyRnNhUzV6YUFvSklpSWlLUW9KQ21Wc2MyVTZDZ2x3Y21sdWRDZ2lYRzVjTURNeld6RTdPVEZ0V3lGZElFbHVkbUZzYVdRZ2IzQjBhVzl1SVZ3d016TmJNRHN3YlZ4dUlpa0tDUW89Jykp'))
+import os
+import sys
+import time
+import requests
+
+try:
+	requests.get("https://www.google.com", timeout=5)
+except:
+	print("\n\033[1;91mOFFLINE.\033[0;0m")
+	sys.exit()
+	
+os.system("clear")
+
+print("""\033[1;91m
+
+   ██╗  ██╗ █████╗ ██╗     ██╗    ██╗      ██████╗  █████╗ ██████╗
+   ██║ ██╔╝██╔══██╗██║     ██║    ██║     ██╔═══██╗██╔══██╗██╔══██╗
+   █████╔╝ ███████║██║     ██║    ██║     ██║   ██║███████║██║  ██║
+   ██╔═██╗ ██╔══██║██║     ██║    ██║     ██║   ██║██╔══██║██║  ██║
+   ██║  ██╗██║  ██║███████╗██║    ███████╗╚██████╔╝██║  ██║██████╔╝
+   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝
+                                                  \033[1;0m Cyber Anonymous
+\033[0;0m""")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("\033[1;92m[1]\033[1;0m Install Kali Linux")
+print("\033[1;92m[2]\033[1;0m Uninstall Kali Linux")
+print("")
+print("")
+try:
+	option = input("\nSELECT OPTION: ")
+except:
+	pass
+try:
+	option=int(option)
+except:
+	print("\n\033[1;91m[!] Invalid option!\033[0;0m\n")
+	sys.exit()
+	
+print("")
+if(option==1):
+	os.system("""
+
+apt-get update -y
+apt-get upgrade -y
+
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+	
+	""")
+
+	try:
+		requests.get("https://www.google.com", timeout=5)
+	except:
+		print("\n\033[1;91mOFFLINE.\033[0;0m")
+		sys.exit()
+
+	while(True):
+		desktop_environment=input("\n\033[1;93mDo you want to install desktop environment (Y/n):\033[0;0m ").lower()
+		
+		if(desktop_environment=="y" or desktop_environment=="n"):
+			break
+		else:
+			print("\n\033[1;91m[!] Invalid option!\033[0;0m")
+			pass
+	print("\n")
+
+	if (desktop_environment == "y"):
+	 	
+		os.system("chmod +x start-kali.sh")
+		print("\n\033[1;92mRun the below command in Kali Linux.\033[0;0m")
+		print("")
+		print("wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh && bash de-apt-xfce4.sh")
+		print("\n")
+		time.sleep(2)
+		os.system("./start-kali.sh")
+	
+	elif (desktop_environment == "n"):
+		pass
+	
+	else:
+		print("\n\033[91m[!] Invalid option! \033[0;0m")
+		
+
+
+elif(option==2):
+
+	try:
+		requests.get("https://www.google.com", timeout=5)
+	except:
+		print("\n\033[1;91mOFFLINE.\033[0;0m")
+		sys.exit()
+		
+	os.system("""
+	wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Uninstaller/Kali/UNI-kali.sh && bash UNI-kali.sh
+	""")
+	
+else:
+	print("\n\033[1;91m[!] Invalid option!\033[0;0m\n")
+	
